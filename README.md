@@ -7,3 +7,6 @@ Abrir 'index.html' en el navegador. No hay servidor.
 
 ## Autoría
 Erlantz Baño · 2º DAW · Curso 2026-2027
+
+## Instalación
+Descargar archivos index.html y estilos.css en la misma carpeta.
